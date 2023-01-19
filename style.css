@@ -1,0 +1,157 @@
+#title {
+    background-color: #ff4c68;
+}
+
+h1 {
+    font-family: Montserrat-Black;
+    font-size: 3rem;
+    line-height: 1.5;
+    color: white;
+}
+
+h3 {
+    font-family: Montserrat-Bold;
+}
+
+p {
+    color: #8f8f8f;
+}
+
+.navbar-brand {
+    font-family: Rubic Moonrocks;
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: white;
+}
+
+.nav-link {
+    font-family: Poppins;
+    color: rgb(222, 222, 217);
+    font-size: 1.2rem;
+}
+
+.container-fluid {
+    padding: 3% 15%;
+}
+
+.title-img {
+    transform: rotate(25deg);
+    padding-top: 2em;
+    margin-left: 5em;
+    width: 60%; 
+    
+}
+
+.navbar {
+    padding-bottom: 5.5rem;
+}
+
+.nav-item {
+    padding: 0px 18px;
+    font-weight: bold;
+}
+
+#features {
+    padding: 7% 10%;
+    background-color: white;  
+    
+}
+
+.feature-box {
+    text-align: center;
+    padding: 5%;
+}
+
+.icon {
+    color: #ef8172;
+    margin-bottom: 1rem;
+}
+
+.icon:hover {
+    color: #ff4c68;
+}
+
+/* TestimonialSection */
+#testimonials {
+    text-align: center;
+    background-color: #ef8172;
+}
+
+.test-text {
+    font-family: "Montserrat-Bold";
+    font-size: 3rem;
+    line-height: 1.5;
+    color: white;
+}
+
+.testimonial-img {
+    width: 20%;
+    border-radius: 100%;
+    margin: 20px;
+}
+
+#press {
+    background-color: #ef8172;
+    text-align: center;
+    padding-bottom: 5%;
+}
+
+.press-logo {
+    width: 15%;
+    padding: 1rem;
+    margin-top: 20px;    
+}
+.carousel-item{
+    padding: 7% 15%; ;
+}
+.price-card{
+    margin: 34px 8px;
+}
+.price-style{
+    display: flex;
+    align-items: center;
+    justify-content: center;    
+}
+.price-heading{
+    text-align: center;
+    margin-top: 1rem;
+    padding-top: 4rem;
+}
+#pricing{
+    background-color: #ef8172;
+}
+@media(max-width:990px){
+    .title-img{
+        position: static;
+        transform: rotate(0);
+    }
+    #title{
+        text-align: center;
+    }
+}
+#cta{
+    background-color: #ff4c68;
+    color: #fff;
+    text-align: center;
+    margin-top: 2rem;
+    padding: 5rem;
+    
+}
+.btn{
+    margin:2rem 1rem;
+    
+}
+#footer{
+    text-align: center;
+    font-weight: bold;
+    padding: 2rem;
+}
+h2{
+    font-family: Montserrat-Black;
+    font-size: 3rem;
+    line-height: 1.5;
+    color: white;
+   
+}
+
+
